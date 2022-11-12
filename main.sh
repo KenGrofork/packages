@@ -136,6 +136,15 @@ svn export https://github.com/linkease/openwrt-app-actions/trunk/applications/lu
 svn export https://github.com/linkease/istore-packages/trunk/luci-app-kodexplorer luci-app-kodexplorer
 svn export https://github.com/kenzok8/openwrt-packages/trunk/luci-app-store luci-app-store
 svn export https://github.com/linkease/istore-ui/trunk/app-store-ui app-store-ui
+svn export https://github.com/kenzok8/small-package/trunk/hysteria hysteria
+svn export https://github.com/immortalwrt/luci/branches/openwrt-18.06-k5.4/applications/luci-app-gost luci-app-gost
+svn export https://github.com/immortalwrt-collections/OpenAppFilter/trunk luci-app-oaf
+svn export https://github.com/shidahuilang/OpenClash/trunk luci-app-xiaolaoshu
+svn export https://github.com/k-szuster/luci-access-control/trunk/luci-app-access-control luci-app-access-control
+svn export https://github.com/AlexZhuo/luci-app-bandwidthd.git/trunk luci-app-bandwidthd
+svn export https://github.com/kiddin9/openwrt-packages/trunk/luci-app-homebox luci-app-homebox
+svn export https://github.com/openwrt/luci/trunk/applications/luci-app-frpc luci-app-frpc
+svn export https://github.com/coolsnowwolf/luci/trunk/applications/luci-app-turboacc luci-app-turboacc
 ###主题
 svn export https://github.com/immortalwrt/luci/branches/openwrt-18.06-k5.4/themes/luci-theme-opentomcat luci-theme-opentomcat
 svn export https://github.com/kenzok8/jell/trunk/luci-themedog luci-themedog
