@@ -20,8 +20,8 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        target: [main]
-
+        target: [master]
+                #master
     steps:
     - name: Checkout
       uses: actions/checkout@v3
