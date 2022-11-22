@@ -158,7 +158,7 @@ mkdir -p luci-app-luci-app-quickstart/luasrc/view/quickstart/main.htm
 curl -fsSL  https://raw.githubusercontent.com/shidahuilang/openwrt-package/usb/argon/main.htm > luci-app-quickstart/luasrc/view/quickstart/main.htm
 svn export https://github.com/shidahuilang/luci-theme/trunk/luci-theme-argon luci-theme-argon
 svn export https://github.com/shidahuilang/luci-theme/trunk/luci-app-argon-config luci-app-argon-config
-svn export https://github.com/shidahuilang/luci-theme/trunk/luci-theme-neobird2 luci-theme-neobird2
+svn export https://github.com/shidahuilang/luci-theme/trunk/luci-theme-neobird luci-theme-neobird
 svn export https://github.com/kenzok8/jell/trunk/luci-app-adbyby-plus luci-app-adbyby-plus
 
 git_sparse_clone master "https://github.com/coolsnowwolf/packages" "leanpack" net/miniupnpd net/mwan3 multimedia/UnblockNeteaseMusic-Go \
