@@ -18,7 +18,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        target: [openwrt-21.02]
+        target: [main]
                 #master
     steps:
     - name: Checkout
